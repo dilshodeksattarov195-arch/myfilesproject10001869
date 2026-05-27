@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsealculate",
+        "uuid": 9298275,
+        "checksum": "n4dlsb"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
